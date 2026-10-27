@@ -38,3 +38,6 @@ frontend/screenshots/
 
 test-results/
 playwright-report/
+scratch/
+frontend/scratch/
+*.apk.idsig

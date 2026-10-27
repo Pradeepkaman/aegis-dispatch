@@ -29,7 +29,7 @@ const ROLE_TABS: RoleTabDef[] = [
   {
     id: 'CITIZEN',
     label: 'Citizen',
-    icon: 'emergency',
+    icon: 'person',
     heading: 'Citizen sign in',
     helper: 'Request help and manage your medical profile.',
     apiRole: 'CITIZEN',
@@ -37,7 +37,7 @@ const ROLE_TABS: RoleTabDef[] = [
   {
     id: 'DISPATCHER',
     label: 'Dispatcher',
-    icon: 'shield',
+    icon: 'cad_operator',
     heading: 'Dispatcher sign in',
     helper: 'Manage incoming emergencies and assign ambulances.',
     apiRole: 'DISPATCHER',
